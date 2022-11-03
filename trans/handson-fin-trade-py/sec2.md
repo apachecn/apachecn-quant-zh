@@ -6,6 +6,6 @@
 
 *   [*第二章*](02.html#_idTextAnchor026) *，Python 中的探索性数据分析*
 *   [*第三章*](03.html#_idTextAnchor034) *，使用 NumPy 的高速科学计算*
-*   [*第四章*](04.html#_idTextAnchor078) *，用Pandas进行数据操纵和分析*
+*   [*第四章*](04.html#_idTextAnchor078) *，用 Pandas 进行数据操纵和分析*
 *   [*第五章*](05.html#_idTextAnchor102) *，使用 Matplotlib 进行数据可视化*
 *   [*第六章*](06.html#_idTextAnchor118) *，统计估计、推断和预测*
